@@ -1,0 +1,2 @@
+# discordrpclibrary
+discordrpclibrary by RiritoXXL
